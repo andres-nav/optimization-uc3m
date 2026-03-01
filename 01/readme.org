@@ -1,0 +1,9 @@
+* TODO
+** Later
+- Correlation matrix and add upper bound to etf correlations
+
+* Resources
+[[https://www.kaggle.com/datasets/stefanoleone992/european-funds-dataset-from-morningstar][Dataset]]
+
+[[https://jckantor.github.io/ND-Pyomo-Cookbook/notebooks/08.04-MAD-Portfolio-Optimization.html][MAD Portfolio Optimization with Pyomo]]
+[[https://pymoo.org/case_studies/portfolio_allocation.html][Portfolio Allocation]]
